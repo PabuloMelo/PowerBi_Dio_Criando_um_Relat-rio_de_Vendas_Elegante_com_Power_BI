@@ -1,6 +1,6 @@
 # PowerBi_Dio_Criando_um_Relat-rio_de_Vendas_Elegante_com_Power_BI 
 
-No segyunte desafio foi proposto criar um relatorio interativo utilizando a propria sample disponivel no site da microsoft, criando botões, segmentadores e mais de uma pagina interativa.
+No seguinte desafio foi proposto criar um relatório interativo utilizando a propria sample disponivel no site da microsoft, criando botões, segmentadores e mais de uma pagina interativa.
 
 
 
